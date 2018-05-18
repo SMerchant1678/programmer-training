@@ -15,8 +15,6 @@
 * Type `python <name of your program>.py`. Press `enter`. Observe the following demo:
 
 
-``
-
     cd ~/robotics/training
     $ ls
     test.py
