@@ -10,7 +10,7 @@
 
 ### str
 
-str stands for string, which is just some text, and is written by surrounding textwith quotation marks (“ ”). Other examples of string values:
+str stands for string, which is just some text, and is written by surrounding text with quotation marks (“ ”). Other examples of string values:
 
 * “Nathan”
 * “3”
