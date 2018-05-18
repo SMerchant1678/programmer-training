@@ -24,7 +24,7 @@ int stands for Integer and represents any whole number. Other examples of int va
 * 100000
 
 ### float
-A float is just some number but not necessarily a whole number. Examples of float values include:
+A float is just some number but not necessarily a whole number. It is basically a number with decimal places. Examples of float values include:
 * 2 + 0.7
 * 3.1415
 * 3.0
