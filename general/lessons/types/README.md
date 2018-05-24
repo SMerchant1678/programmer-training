@@ -66,22 +66,6 @@ Traceback (most recent call last):
 ValueError: could not convert string to float: hello!
 ```
 
----
-
-### Side Note: Integer Division
-Remember this?
-
-```
->>> 5 / 2
-2
-```
-
-Well, it turns out that Python only rounds down division when it detects that both of the operands (5 and 2 in this case) are integers! To force it to do real division, you can cast one to a float:
-
-```
->>> float(5) / 2.
-2.5
-```
 
 ---
 
