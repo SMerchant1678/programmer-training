@@ -40,7 +40,7 @@ Make a program that takes user input and adds it to a list until the user inputs
 
 Make a list. It can be any length and have anything in it. Now, make a new list that is the same but reversed!
 
-**Extra Challenge:** Solve the first three problems from [project Euler](https://projecteuler.net/archives). Technically, people aren’t supposed to post solutions, but they do so anyways - [Google](https://www.google.com/) can always help.
+**Extra Challenge:** Solve the first three problems from [Project Euler](https://projecteuler.net/archives). Technically, people aren’t supposed to post solutions, but they do so anyways - [Google](https://www.google.com/) can always help.
 
 ### The Software Engineering Process
 We have a list of patients with values of their weight and height. This program is supposed to return the BMI (Body Mass Index) for with patient in a loop. However, something is not quite right. Time to debug!
@@ -73,13 +73,13 @@ The robot class should also have methods to:
  * pick up a cube
  * score a cube
 
-<img src="https://nathansolomon1678.github.io/programmer-training/general/assignments/robot.png" width="500">
+![Robot with elevator]({{ "/assets/images/robot.png" | absolute_url }})
 
 **Rules:** The robot starts at position 0 with no cubes and the arm 0 meters off the ground.
 
 A cube can only be picked up when:
 
- * The robot is at space 3 (aka 3 meters from starting position)
+ * The robot is at space 4 (4 meters from starting position)
  * The arm is 0 meters off the ground
  * The robot does not already have a cube
 The robot must be holding a cube 10 centimeters in the air at space 7 to score it.

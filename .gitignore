@@ -1,2 +1,5 @@
 bazel-*
-*.swp
+*.sw*
+/_site
+/.jekyll-metadata
+/Gemfile.lock

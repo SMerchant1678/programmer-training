@@ -1,5 +1,5 @@
 Table of Contents:
- * [similarities to python](python) - everything you've already learned to do in python (variables, functions, classes, etc.), in c++
- * [how to run your code](compiling)
- * [scope, stack/heap, ownership, pointers, & references](memory) - this is a very difficult lesson. Enjoy.
- * [templates and the standard library](stl) - templates & arrays/vectors
+ * [Similarities to Python](python) - everything you've already learned to do in Python (variables, functions, classes, etc.), in C++
+ * [How to Run your Code](compiling)
+ * [Scope, Stack/Heap, Ownership, Pointers, & References](memory) - this is a very difficult lesson. Enjoy.
+ * [Templates and the Standard Library](stl) - templates & arrays/vectors

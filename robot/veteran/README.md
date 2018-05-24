@@ -2,11 +2,11 @@
 
 In the summer and offseason of 2018-2019, we will be taking steps to ensure that our second-year programmers (congrats! You made it through build season!) will be able to effectively manage the entire codebase by themselves - essentially, the sum of this second-year training should be enough to bring the programmers up to the level needed to fully contribute to the robot programming codebase. This training will involve several areas, including greater depth of understanding in C++ and Python programming as well as specific knowledge of the Linux operating system, the Bazel build system, and WPILib and the FRC control system.
 
-Every programmer is not expected to understand all of the below topics in complete detail. Everyone should still have some basic familiarity with each of the topics: bolded entries below indicate topics that all veteran programmers should understand. Each programmer should also study in depth two or three other topics with the expectation that they will become one of the team’s "experts” on that topic.
+Every programmer is not expected to understand all of the below topics in complete detail. Everyone should still have some basic familiarity with each of the topics: bold entries below indicate topics that all veteran programmers should understand. Each programmer should also study in depth two or three other topics with the expectation that they will become one of the team’s "experts” on that topic.
 
 This training will mostly involve the self-paced use of resources linked below. There may also be some formal lectures or exercises depending on what the programmers are having trouble with.
 
-##Git and Github
+##Git and GitHub
 
 ###Goals
 
@@ -22,7 +22,7 @@ Understand...
 * **Pull Requests**
 * **Code Review**
 
-###Resouces
+###Resources
 
 There are a lot of developers who post information on how to do specific git things.
 
@@ -30,9 +30,9 @@ There are a lot of developers who post information on how to do specific git thi
 
 * [Using the Fork-and-Branch Git Workflow] (https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
 
-* [Pull Requests and Code Review Guidlines (Code Inspection Checklist)] (http://www.literateprogramming.com/Baldwin-inspect.pdf)
+* [Pull Requests and Code Review Guidelines (Code Inspection Checklist)] (http://www.literateprogramming.com/Baldwin-inspect.pdf)
 
-* [Test your basic knowledge of git] (http://gitreal.codeschool.com/levels/1/challenges/1)
+* [Test your Basic Knowledge of Git] (http://gitreal.codeschool.com/levels/1/challenges/1)
 
 ##C++
 
@@ -42,7 +42,7 @@ Understand...
 
 * **All common syntax used in C++**
 * The C++ compilation/linking process
-* How templates work in C++ and how classes can be templated over both types and values
+* How templates work in C++ and how classes can be templatized over both types and values
 * **Stack vs. heap memory**
 * Ownership semantics
 * Different types of variables, including owned stack variables, references, pointers, and smart pointers
@@ -51,7 +51,7 @@ Understand...
 >Use-after-free or resource leaks
 * The debugging process, and how to use a debugger to find issues in code 
 
-###Resouces
+###Resources
 
 Most C++ topics are covered by [Learn CPP] (http://www.learncpp.com/)
 
@@ -94,7 +94,7 @@ Mount Points
 
 Be able to...
 
-* **Use cc_library, cc_binary, and cc_test in real code**
+* **Use `cc_library`, `cc_binary`, and `cc_test` in real code**
 
 >**Know when and how to properly declare dependencies in code**
 
@@ -170,9 +170,9 @@ Be able to...
 
 Understand...
 
-* **Common syntax used in python**
+* **Common syntax used in Python**
 * Numpy, especially with matrices and linear algebra
-* Generation of C++ code from python
+* Generation of C++ code from Python
 
 ###Resources
 
@@ -283,7 +283,7 @@ Be able to...
 
 * [254-Taking Control of your Robot] (https://www.team254.com/documents/control/)
 
-* [254+971-Motion Planning and Control (youtube)] (https://www.youtube.com/watch?v=8319J1BEHwM)
+* [254+971-Motion Planning and Control (YouTube)] (https://www.youtube.com/watch?v=8319J1BEHwM)
 
 ##Vision
 
@@ -307,7 +307,7 @@ Understand...
 
 >Yaw
 
->Disance form target
+>Distance from target
 
 >Horizontal displacement from a target
 
@@ -320,6 +320,6 @@ Be able to...
 
 ###Resources
 
-* [OpenCV turorials] (http://docs.opencv.org/master/d9/df8/tutorial_root.html)
+* [OpenCV Tutorials] (http://docs.opencv.org/master/d9/df8/tutorial_root.html)
 
 * [254 "integrating Computer Vision and Motion Control"] (https://www.team254.com/documents/vision-control)

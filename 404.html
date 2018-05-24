@@ -1,53 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style type="text/css">
-
-    .OctoCatLocator { 
-      position: relative;
-      visibility: visible;
-      left: 0;
-      top: 20px;
-      text-align: center;
-    }
-
-    .Title {
-      position: relative;
-      left: 0;
-      top: -10px;
-      text-align: center;
-    }
-    .firstHeader {
-      position: relative;
-      left: 0;
-      top: -30px;
-      text-align: center;
-    }
-    .secondHeader {
-      position: relative;
-      left: 0;
-      top: 0px; 
-      text-align: center;
-    }
-
-  </style>
-</head>
-
-<body>
-  
-  <div class="Title">
-    <h1 style="font-size: 80px;">404 Error</h1>
-    <div class="firstHeader">
-      <h2>Sorry, but the page you're looking for does not exist</h2>
-      <div class="secondHeader">
-        <h2>To go back to the homepage click <a href="https://nathansolomon1678.github.io/programmer-training/">HERE</a></h2>
-      </div>
-    </div>
-  </div>
-
-  <div class="OctoCatLocator">
-    <img src="/OctoCat.png"><br>
-  </div>
-
-</body>
-</html>
+---
+layout: default
+---
+<div align="center">
+  <h1>404 Error</h1>
+  <h2>Sorry, but the page you're looking for does not exist.</h2>
+  <h2>To go back to the homepage click <a href="{{ '/' | absolute_url }}">HERE</a></h2>
+  <img alt="Octobi-Wan Catnobi" src="{{ '/assets/images/OctoCat.png' | absolute_url }}" />
+</div>

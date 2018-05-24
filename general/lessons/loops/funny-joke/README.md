@@ -1,1 +1,1 @@
-To learn what an infinite loops is, right click [here](https://nathansolomon1678.github.io/programmer-training/general/lessons/loops/funny-joke) and click `open link in new tab`. You will quickly learn what an infinite loop is, and how annoying they can be!
+To learn what an infinite loops is, right click [here]({{ "/general/lessons/loops/funny-joke" | absolute_url}}) and click `open link in new tab`. You will quickly learn what an infinite loop is, and how annoying they can be!

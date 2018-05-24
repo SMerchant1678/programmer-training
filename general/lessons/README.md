@@ -10,8 +10,8 @@
  * [loops](loops) - want to know how to make something repeat over and over? Click [here](loops/funny-joke)!
  * [functions](functions) - chunks of code that you can repeat at any point in one line, and can work like math functions (like `f(x)`)
  * [DRY: Don't Repeat Yourself](dry) - become a good programmer by not unnecessarily repeating code. Sorry if this lesson is a bit dry.
- * [classes](classes) - **Q:** Who doesn't like object-oriented programming? **A:** lots of people
- * [modules](modules) - use code from other files and helpful code that other people have made for you
- * [git & github](git) - version-control system, for collaborating on projects. No, it's not like google drive. Git is difficult until you get the hang of it.
- * [code review](code-review) - practice catching other people's mistakes
- * [vim](vim) - optional lesson on using vim, a customizable text editor that has tons of shortcuts but is hard to use
+ * [Classes](classes) - **Q:** Who doesn't like object-oriented programming? **A:** lots of people
+ * [Modules](modules) - use code from other files and helpful code that other people have made for you
+ * [Git & GitHub](git) - version-control system, for collaborating on projects. No, it's not like Google Drive. Git is difficult until you get the hang of it.
+ * [Code Review](code-review) - practice catching other people's mistakes
+ * [Vim](vim) - optional lesson on using Vim, a customizable text editor that has tons of shortcuts but is hard to use
