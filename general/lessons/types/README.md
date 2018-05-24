@@ -6,6 +6,8 @@
 * Decimal numbers: 0.0, 1.0, 3.1415
 * Text: “Hello, world!”
 
+---
+
 ### The different types in python are:
 
 ### str
@@ -31,6 +33,8 @@ A float is just some number but not necessarily a whole number. It is basically 
 
 Although 3.0 can be represented as a whole number, the decimal point makes it into a float, not an int.
 
+---
+
 ## Converting Between Types
 * What if you have a float value (5.0) and you want to turn it into an integer?
 * What if you want to get an integer from a string?
@@ -46,6 +50,8 @@ Casting can change a variable between types!
 ‘5.2’
 ```
 
+---
+
 ## Converting Values That Don't Make Sense
 ###### What if a cast doesn’t make complete sense?
 * Converting a non-whole number into an integer will just round down (4.0 → 4, 4.5 →4, 4.9 → 4, 5.0 → 5)
@@ -59,6 +65,8 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ValueError: could not convert string to float: hello!
 ```
+
+---
 
 ### Side Note: Integer Division
 Remember this?
@@ -74,6 +82,8 @@ Well, it turns out that Python only rounds down division when it detects that bo
 >>> float(5) / 2.
 2.5
 ```
+
+---
 
 ## Try it out!
 ###### Try to these these simple challanges to familarize yourself with python types.
