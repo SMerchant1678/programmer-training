@@ -65,8 +65,6 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ValueError: could not convert string to float: hello!
 ```
-
-
 ---
 
 ## Try it out!
