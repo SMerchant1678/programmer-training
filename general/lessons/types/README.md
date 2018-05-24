@@ -2,7 +2,7 @@
 
 ##### We’ve seen that variables can refer to different kinds of data:
 
-* Integer numbers: 0, 1, -3, etc.
+* Integer numbers: 0, 1, -3
 * Decimal numbers: 0.0, 1.0, 3.1415
 * Text: “Hello, world!”
 
@@ -10,15 +10,15 @@
 
 ### str
 
-str stands for string, which is just some text, and is written by surrounding text with quotation marks (“ ”). Other examples of string values:
+str stands for string, which is just some text, and is written by surrounding text with quotation marks (“”). Other examples of string values:
 
-* “Nathan”
+* “Siddarth”
 * “3”
 * “some other random text”
 
 ### int
 
-int stands for Integer and represents any whole number. Other examples of int values include:
+int stands for Integer and represents any real whole number. Other examples of int values include:
 * 1
 * 4*2
 * 100000
@@ -57,7 +57,7 @@ Casting can change a variable between types!
 >>> float(“hello!”)
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-ValueError: could not convert string to float: hello
+ValueError: could not convert string to float: hello!
 ```
 
 ### Side Note: Integer Division
