@@ -1,5 +1,6 @@
 # Lessons (in order):
  * [getting started](getting-started) - python interpreter & installing python, git, and a text editor
+ 
  * [printing and arithmetic](basics)
  * [variables & `raw_input()`](variables) - get input from the user, use text and numbers stored as variables
  * [types](types) - learn about integers, floats, strings, and converting between types
